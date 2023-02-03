@@ -1,0 +1,17 @@
+body
+{
+    background-color:mediumturquoise;
+    font-family: fantasy;
+}
+
+.update_score
+{
+    font-size: 18px;
+    margin-left: float;
+}
+
+.span_timer
+{
+    font-size: 18px;
+    margin-right: float;
+}
